@@ -12,7 +12,7 @@
 ```python
 class NengzXGODZ:
     def __init__(self):
-        self.name = "NengzXGODZploit"
+        self.name = "NengzX"
         self.location = "PhnomPenh, Cambodia"
         self.work = "Security Researcher & Developer"
         self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
